@@ -14,6 +14,7 @@
 				<string>shtml</string>
 				<string>xht</string>
 				<string>xhtml</string>
+				<string>webloc</string>
 			</array>
 			<key>CFBundleTypeIconFile</key>
 			<string>document.icns</string>
